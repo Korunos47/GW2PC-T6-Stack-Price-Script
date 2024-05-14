@@ -13,6 +13,10 @@ This Tampermonkey script displays the price of a whole stack (250) for each of t
 
 Navigate to [https://gw2pc.com/t6/](https://gw2pc.com/t6/), and the script will automatically add a new column showing the discounted stack price.
 
+## Example
+
+![image](https://github.com/Korunos47/GW2PC-T6-Stack-Price-Script/assets/23219079/8cac6e16-3927-4524-a7fd-87e7ef218e6d)
+
 ## Author
 
 Korunos
